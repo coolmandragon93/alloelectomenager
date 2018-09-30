@@ -1,0 +1,14 @@
+	<item>
+		<g:id>{{aswo_id}}</g:id>
+		<title>{{name}}</title>
+		<link>{{link}}</link>
+		<g:description>{{description}}</g:description>
+		<g:image_link>{{image_link}}</g:image_link>
+		<g:price>{{price}}</g:price>
+		<g:condition>new</g:condition>
+		<g:availability>in stock</g:availability>
+		<g:google_product_category>{{google_product_category}}</g:google_product_category>
+		<g:brand>{{brand}}</g:brand>
+		<g:gtin>{{gtin}}</g:gtin>
+		<g:mpn>{{mpn}}</g:mpn>
+	</item>
